@@ -29,6 +29,7 @@
 		9699A4F22969BAC300807028 /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9699A4F12969BAC300807028 /* AudioTrack.swift */; };
 		9699A4F42969BADA00807028 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9699A4F32969BADA00807028 /* Artist.swift */; };
 		9699A4F62969BAE700807028 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9699A4F52969BAE700807028 /* UserProfile.swift */; };
+		969D09DA296AABA80099E2A5 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 969D09D9296AABA80099E2A5 /* Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		9699A4F12969BAC300807028 /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		9699A4F32969BADA00807028 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		9699A4F52969BAE700807028 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		969D09D9296AABA80099E2A5 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				9699A4BE2969B3F900807028 /* Assets.xcassets */,
 				9699A4B52969B3F500807028 /* AppDelegate.swift */,
 				9699A4B72969B3F500807028 /* SceneDelegate.swift */,
+				969D09D9296AABA80099E2A5 /* Extension.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 				9699A4DE2969B9A900807028 /* WelcomeViewController.swift in Sources */,
 				9699A4EE2969BA9000807028 /* HapticsManager.swift in Sources */,
 				9699A4F22969BAC300807028 /* AudioTrack.swift in Sources */,
+				969D09DA296AABA80099E2A5 /* Extension.swift in Sources */,
 				9699A4E22969B9CF00807028 /* ProfileViewController.swift in Sources */,
 				9699A4BA2969B3F500807028 /* HomeViewController.swift in Sources */,
 				9699A4B62969B3F500807028 /* AppDelegate.swift in Sources */,
